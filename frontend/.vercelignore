@@ -1,0 +1,17 @@
+# dependencies
+node_modules
+.expo
+
+# build output
+dist
+web-build
+
+# env (set these in Vercel dashboard — never commit)
+.env
+.env.*
+!.env.example
+
+# os / editor
+.DS_Store
+.vscode
+*.log
